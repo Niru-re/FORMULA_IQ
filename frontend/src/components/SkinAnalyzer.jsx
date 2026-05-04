@@ -25,7 +25,9 @@ const SkinAnalyzer = ({ user, selectedProblems = [], onAnalysisComplete }) => {
         }
 
         try {
-            const res = await axios.post('http://localhost:5000/api/analysis/upload', formData);
+            // Use relative path for production/vercel
+            const apiBase = window.location.hostname === 'localhost' ? 'http://localhost:5000' : '';
+            const res = await axios.post(`${apiBase}/api/analysis/upload`, formData);
             const responseAnalysis = res.data.analysis || {};
             
             const highlightAreas = responseAnalysis.markerPoints || [];
