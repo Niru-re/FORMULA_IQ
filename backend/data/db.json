@@ -1,0 +1,183 @@
+{
+  "users": [
+    {
+      "username": "Niru",
+      "email": "nirmalporeddiwar@gmail.com",
+      "password": "$2b$10$zH5JTsYBVPx8qT.08gCUVeK6ogMDHcMJ3SyKVCtDd63qRvn3theYq",
+      "skinProfile": {
+        "skinType": "Sensitive",
+        "concerns": [
+          "Dark Spots",
+          "Acne"
+        ],
+        "lastAnalysis": {
+          "score": 46.03,
+          "detectedIssues": [
+            "Acne Breakouts",
+            "Redness/Rosacea",
+            "Visible Pores",
+            "Clogged Pores"
+          ],
+          "recommendations": [
+            1,
+            4,
+            5,
+            6,
+            10
+          ],
+          "selectedProblems": [],
+          "date": "2026-05-04T21:03:07.697Z"
+        }
+      },
+      "_id": "1777181340308",
+      "skinProfile.lastAnalysis": {
+        "score": 46.03,
+        "detectedIssues": [
+          "Acne Breakouts",
+          "Redness/Rosacea",
+          "Visible Pores",
+          "Clogged Pores"
+        ],
+        "recommendations": [
+          1,
+          4,
+          5,
+          6,
+          10
+        ],
+        "selectedProblems": [],
+        "date": "2026-05-04T21:03:07.697Z"
+      }
+    },
+    {
+      "username": "TestUsercom",
+      "email": "test@example.com",
+      "password": "$2b$10$5bzMmHBHNY8VHVajIWc4Lu53FjgMim1F5CYr2eXtzla3gvNXWNqY2",
+      "skinProfile": {
+        "skinType": "Normal",
+        "concerns": [],
+        "lastAnalysis": {
+          "score": 74.03,
+          "detectedIssues": [
+            "Visible Pores/Texture"
+          ],
+          "date": "2026-04-27T05:48:33.879Z"
+        }
+      },
+      "_id": "1777268726012",
+      "skinProfile.lastAnalysis": {
+        "score": 74.03,
+        "detectedIssues": [
+          "Visible Pores/Texture"
+        ],
+        "date": "2026-04-27T05:48:33.879Z"
+      }
+    },
+    {
+      "username": "niru",
+      "email": "nirmalporeddiwar33@gmail.com",
+      "password": "$2b$10$O04/wkeCVJrleZLDSTE1Z.7rYtRt2X0X5yd9X2vWPIXCgIuSubCKS",
+      "skinProfile": {
+        "skinType": "Sensitive",
+        "concerns": [
+          "Dark Spots"
+        ],
+        "lastAnalysis": {
+          "score": 46.03,
+          "detectedIssues": [
+            "Clogged Pores",
+            "Acne Breakouts",
+            "Visible Pores",
+            "Redness/Rosacea"
+          ],
+          "recommendations": [
+            1,
+            4,
+            5,
+            6,
+            10
+          ],
+          "selectedProblems": [],
+          "date": "2026-05-04T21:30:37.609Z"
+        }
+      },
+      "_id": "1777529611530",
+      "skinProfile.lastAnalysis": {
+        "score": 46.03,
+        "detectedIssues": [
+          "Clogged Pores",
+          "Acne Breakouts",
+          "Visible Pores",
+          "Redness/Rosacea"
+        ],
+        "recommendations": [
+          1,
+          4,
+          5,
+          6,
+          10
+        ],
+        "selectedProblems": [],
+        "date": "2026-05-04T21:30:37.609Z"
+      }
+    },
+    {
+      "username": "anil",
+      "email": "anilporeddiwar@gmail.com",
+      "password": "$2b$10$1lbgZTMrHVwTAOe5tyFCXuXc41icav.KA.hzYOCY4D6gDoh.EgQDq",
+      "skinProfile": {
+        "skinType": "Oily",
+        "concerns": [
+          "Dark Spots"
+        ],
+        "lastAnalysis": {
+          "score": 64.31,
+          "detectedIssues": [
+            "Visible Pores",
+            "Clogged Pores",
+            "Fine Lines"
+          ],
+          "recommendations": [
+            1,
+            4,
+            6,
+            7
+          ],
+          "selectedProblems": [],
+          "date": "2026-05-02T14:04:55.060Z"
+        }
+      },
+      "_id": "1777711145550",
+      "skinProfile.lastAnalysis": {
+        "score": 64.31,
+        "detectedIssues": [
+          "Visible Pores",
+          "Clogged Pores",
+          "Fine Lines"
+        ],
+        "recommendations": [
+          1,
+          4,
+          6,
+          7
+        ],
+        "selectedProblems": [],
+        "date": "2026-05-02T14:04:55.060Z"
+      }
+    },
+    {
+      "username": "TestUser",
+      "email": "test@skinlog.com",
+      "password": "$2b$10$1sDCX0WG1XhBhlOkDRIkUezdXwkAGOWRe7yrX09lXPO.2Dt6fSiSe",
+      "skinProfile": {
+        "skinType": "Oily",
+        "concerns": [
+          "Acne",
+          "Dark Spots",
+          "Pores"
+        ]
+      },
+      "_id": "1777712474224"
+    }
+  ]
+}
